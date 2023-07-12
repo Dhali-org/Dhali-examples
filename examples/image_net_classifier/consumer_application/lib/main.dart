@@ -307,7 +307,7 @@ class TakePictureScreenState extends State<TakePictureScreen> {
                                   child: const Text('OK'))
                             ],
                             title: const Text(
-                                'Generatre wallet using BIP-39 compatible words'),
+                                'Generate wallet using BIP-39 compatible words'),
                             content: TextField(
                               onChanged: (value) {},
                               controller: _mnemonicController,

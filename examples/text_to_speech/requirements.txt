@@ -1,0 +1,9 @@
+transformers==4.27.2
+datasets==2.10.1
+torch==2.0.0
+torchaudio==2.0.1
+sentencepiece==0.1.97
+fastapi==0.95.0
+python-multipart==0.0.6
+uvicorn==0.21.1
+uvloop==0.17.0

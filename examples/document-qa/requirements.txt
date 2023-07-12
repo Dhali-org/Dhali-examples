@@ -1,0 +1,8 @@
+transformers==4.27.2
+Pillow==9.5.0
+torch==2.0.0
+pytesseract==0.3.10 # Requires `sudo apt-get install python3-pil tesseract-ocr libtesseract-dev tesseract-ocr-eng tesseract-ocr-script-latn`
+fastapi==0.95.1
+uvicorn==0.21.1
+uvloop==0.17.0
+python-multipart==0.0.6
